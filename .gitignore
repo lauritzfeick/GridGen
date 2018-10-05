@@ -1,0 +1,5 @@
+/.idea
+/HOWTO
+/example_psd
+*test*.grid
+/__pycache__
